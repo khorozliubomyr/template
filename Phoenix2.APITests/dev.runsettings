@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<configuration>
+		<appSettings>
+		<add key="JwtTokenSecret" value="FLkedhqiuerhwqkfds78r3y60824y32!CO~@Y021c0"/>
+		<add key="JwtTokenIssuer" value="CLM_WEB"/>
+		<add key="JwtTokenAudience" value="Phoenix2"/>
+		</appSettings>
+	</configuration>
+	<TestRunParameters>
+    <Parameter name="TestingMode" value="UI" />
+    <Parameter name="EnvironmentURL" value="https://phoenixdev.ilendingdirect.com/" />
+    <Parameter name="AdminLogin" value="iselesnov" />
+    <Parameter name="AdminPassword" value="Test12345!" />	
+    <Parameter name="LCLogin" value="" />
+    <Parameter name="LCPassword" value="" />
+    <Parameter name="lenderCode" value="Bl"/>
+	<Parameter name="Scope" value="d9a29073-026e-40a2-ac35-13f176b4a798/.default" />
+	<Parameter name="ClientId" value="a44aff9a-dcfb-465f-9478-012f8e35da11" />
+	<Parameter name="ClientSecret" value="gcH8Q~XUCLiGDiMKFdYuVNCrwSQltA~tlwIFfaj8" />
+	<Parameter name="TenantId" value="9b5a2523-a791-49e5-aa24-83a47dbfc844" />
+	<Parameter name="Audiences" value="d9a29073-026e-40a2-ac35-13f176b4a798,721c721b-c104-4e72-8ca9-c45163a23752,4796a80d-bcff-437c-b48b-04c385ed58ad" />
+	</TestRunParameters>
+</RunSettings>

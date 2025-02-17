@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phoenix2.UITests", "Phoenix2.UITests\Phoenix2.UITests.csproj", "{3D7EBB45-099A-4FF8-85B3-4C91F27FA492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoenix2.APITests", "Phoenix2.APITests\Phoenix2.APITests.csproj", "{EDBF38F6-3484-4B17-82A1-4059C1E52013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D7EBB45-099A-4FF8-85B3-4C91F27FA492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7EBB45-099A-4FF8-85B3-4C91F27FA492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7EBB45-099A-4FF8-85B3-4C91F27FA492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7EBB45-099A-4FF8-85B3-4C91F27FA492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBF38F6-3484-4B17-82A1-4059C1E52013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBF38F6-3484-4B17-82A1-4059C1E52013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBF38F6-3484-4B17-82A1-4059C1E52013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBF38F6-3484-4B17-82A1-4059C1E52013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61F2932-C393-497C-BABD-23B9F902D896}
+	EndGlobalSection
+EndGlobal

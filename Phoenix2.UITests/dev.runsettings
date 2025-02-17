@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+    <Parameter name="TestingMode" value="UI" />
+    <Parameter name="EnvironmentURL" value="https://icapture-dev-phoenix2.azurewebsites.net/" />
+    <Parameter name="AdminLogin" value="PHX2AutoTst@ilendingdirect.com" />
+    <Parameter name="AdminPassword" value="R!$ePhx2frmFir3" />
+    <Parameter name="LCLogin" value="" />
+    <Parameter name="LCPassword" value="" />
+	<Parameter name="DocGen2Login" value="docgen2" />
+	<Parameter name="DocGen2Password" value="HotLikeTheBeachBoys703" />
+
+	</TestRunParameters>
+</RunSettings>
